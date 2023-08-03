@@ -148,7 +148,7 @@ body {
     height: 72px;
     width: 116px;
     background: var(--color1);
-    top: 198px;
+    top: 197.5px;
     transform: translateX(-20%);
     z-index: -1;
 }
