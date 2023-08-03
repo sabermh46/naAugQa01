@@ -16,7 +16,6 @@ body {
 .container {
     height: 370px;
     width: 690px;
-    opacity: 0.5;
     position: relative;
 }
 
